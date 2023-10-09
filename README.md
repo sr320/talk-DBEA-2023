@@ -1,5 +1,5 @@
 # talk-DBEA-2023
-[robertslab.info](robertslab.info)
+[robertslab.info](https://faculty.washington.edu/sr320/)
 
 ## Genomic Applications in Sustainable Aquaculture
 
